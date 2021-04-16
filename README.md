@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @syedsadiqali1
+- 👀 I’m interested in Javascript and related realm.
+- 🌱 I’m currently learning NodeJS
